@@ -3,7 +3,11 @@
 /node_modules
 /mongo-data
 /.vscode
-/clinic
+/.clinic
+.env
+env
+/.env
+/env
 
 # Logs
 logs
@@ -25,6 +29,7 @@ lerna-debug.log*
 /.idea
 .project
 .classpath
+.prettierrc
 .c9/
 *.launch
 .settings/
